@@ -73,9 +73,13 @@ https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisit
 
 **-Деякі Пояснення:**
 GPT formatted disk
+
 розділ EFI partition (ESP) of 210MB minumum (тільки один розділ EFI на диску)
+
 основний розділ для самої macOS - format MAC OS Extended - GUID
--Далі оберіть встановлення.
+
+Далі оберіть встановлення: https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html
+
 
 **6)** PostInstall - переміщення папки EFI на EFI partition
 Після успішного встановлення - флешки можна позбутися, якщо перемістити наш завантажувач до розділу EFI
