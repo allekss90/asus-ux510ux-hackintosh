@@ -84,5 +84,3 @@ GPT formatted disk
 **6)** PostInstall - переміщення папки EFI на EFI partition
 Після успішного встановлення - флешки можна позбутися, якщо перемістити наш завантажувач до розділу EFI
 Детальніше: https://dortania.github.io/OpenCore-Post-Install/
-
-Будь ласка, пишіть у issue, якщо у Вас є пропозиції щодо покращення.:smile:
